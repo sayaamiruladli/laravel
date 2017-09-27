@@ -1,3 +1,4 @@
+/*php artisan framework*/
 <?php
 
 namespace App;
