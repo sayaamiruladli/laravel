@@ -1,4 +1,3 @@
-/*php artisan server*/
 <?php
 
 return [
